@@ -1,1 +1,1 @@
-aws s3 cp --recursive --acl public-read ./www s3://myappudacity/
+aws s3 cp --recursive --acl public-read ./www s3://udagram-tuannt57/
